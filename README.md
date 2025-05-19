@@ -13,6 +13,7 @@ The Following models have been used in the project.
 2. PPO Model
 
 Three types of environments have been tested: 
-1. 
-2.
-3.
+
+1. Environment Without Cash Rebalance(infinite capital)
+2.Environment With Cash Rebalance(dynamically adjusted capital based on profits and losses)
+3.Environment With sharpe ratio reward. 
