@@ -7,3 +7,12 @@ Different environments (e.g., discrete vs continuous action space, risk-adjusted
 3.Various model-free RL algorithms
 4.Visualization of portfolio weights, rewards, and drawdowns
 odular design for easy extension
+
+The Following models have been used in the project. 
+1. DDPG Model
+2. PPO Model
+
+Three types of environments have been tested: 
+1. 
+2.
+3.
