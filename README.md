@@ -16,4 +16,10 @@ Three types of environments have been tested:
 
 1. Environment Without Cash Rebalance(infinite capital)
 2. Environment With Cash Rebalance(dynamically adjusted capital based on profits and losses)
-3. Environment With sharpe ratio reward. 
+3. Environment With sharpe ratio reward.
+
+Result Intepretation: 
+
+1. Best model vs. Mean Market performance: Provides a comparison of the best model (DDPG with Cash Rebalance) with mean-covariance method.
+2. Different Model.png: Provides the perforamance of various methods for cash rebalance environment with various agents.
+3. Environments.png: Performance of Various models against different environements.
